@@ -1,6 +1,6 @@
 ## Hey 👋, my name is José Miguel Isidro
 
-### I'm currently studying Computer Engineer at FEUP ---- Porto, Portugal
+### I'm currently studying Computer Science at FEUP ---- Porto, Portugal
 
 
 <div align="center">
