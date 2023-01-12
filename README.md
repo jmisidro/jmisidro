@@ -1,12 +1,12 @@
-## Hey 👋, my name is José Miguel Isidro
+## Hey, my name is José Miguel Isidro 👋
 
-### I'm currently studying Computer Science at FEUP ---- Porto, Portugal
+### I'm currently studying Computer Science at FEUP :round_pushpin: Porto, Portugal
 
 
 <div align="center">
   <a href="https://github.com/zmiguel2011">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmiguel2011&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmiguel2011&layout=compact&langs_count=7&theme=dracula"/>   
+  <img height="180em" alt="José Miguel GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zmiguel2011&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="José Miguel Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zmiguel2011&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
   
 <div align="center" style="display: inline_block"><br>
