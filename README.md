@@ -1,6 +1,6 @@
 ## Hey, my name is José Miguel Isidro 👋
 
-### I'm currently studying Computer Science at FEUP :round_pushpin: Porto, Portugal
+### I'm currently studying Informatics and Computer Engineering at FEUP :round_pushpin: Porto, Portugal
 
 
 <div align="center">
@@ -25,5 +25,4 @@
   <img alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   <img alt="Terminal" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </div>
-    
   
