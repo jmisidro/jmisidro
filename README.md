@@ -1,6 +1,9 @@
-## Hey, my name is José Miguel Isidro 👋
-
-### I'm currently studying Informatics and Computer Engineering at FEUP :round_pushpin: Porto, Portugal
+<div align = "center">
+  <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <h2 align = "center" > Hey, I'm José Miguel Isidro </h2>
+  <h3>Currently studying Informatics and Computer Engineering at FEUP :round_pushpin: Porto, Portugal</h3>
+</div>
+<br>
 
 
 <div align="center">
