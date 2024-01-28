@@ -1,7 +1,8 @@
 <div align = "center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-  <h2 align = "center" > Hey, I'm José Miguel Isidro </h2>
+  <h2 > Hey, I'm José Miguel Isidro </h2>
   <h3> Currently studying Informatics and Computing Engineering at FEUP :round_pushpin: Porto, Portugal </h3>
+  <h3><a href="https://zmiguel2011.github.io">Website</a></h3>
 </div>
 <br>
 
