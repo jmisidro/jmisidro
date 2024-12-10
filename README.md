@@ -2,15 +2,15 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
   <h2 > Hey, I'm José Miguel Isidro </h2>
   <h3> Currently studying Informatics and Computing Engineering at FEUP :round_pushpin: Porto, Portugal </h3>
-  <h3><a href="https://zmiguel2011.github.io">Website</a></h3>
+  <h3><a href="https://jmisidro.com">Website</a></h3>
 </div>
 <br>
 
 
 <div align="center">
-  <a href="https://github.com/zmiguel2011">
-  <img height="180em" alt="José Miguel GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zmiguel2011&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" alt="José Miguel Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zmiguel2011&layout=compact&langs_count=7&theme=dracula"/>   
+  <a href="https://github.com/jmisidro">
+  <img height="180em" alt="José Miguel GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmisidro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="José Miguel Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jmisidro&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
   
 <div align="center" style="display: inline_block"><br>
