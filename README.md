@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
   <h2>Hey, I'm José Miguel Isidro</h2>
   <h3>Currently studying Informatics and Computing Engineering at FEUP :round_pushpin: Porto, Portugal</h3>
-  <h3><a href="https://jmisidro.com">Website</a></h3>
+  <h3><a href="https://www.jmisidro.com">Website</a></h3>
   <h3><a href="https://www.linkedin.com/in/josemiguelisidro">LinkedIn</a></h3>
 </div>
 <br>
