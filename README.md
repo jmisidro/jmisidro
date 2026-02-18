@@ -73,5 +73,5 @@ I'm a **Software Engineer** pursuing a **Master's in Informatics and Computing E
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🌆 [CitiLink](https://www.jmisidro.com/projects/1) | Enhancing municipal transparency through AI — transforming unstructured city council documents into structured, accessible data | Python · NLP · HuggingFace |
-| 📋 [SciSup](https://www.jmisidro.com/projects/2)  | User-friendly project supervision platform to simplify workflows and enhance project outcomes | React · Node.js · PostgreSQL |
+| 🌆 [CitiLink](https://www.jmisidro.com/projects/citilink) | Enhancing municipal transparency through AI — transforming unstructured city council documents into structured, accessible data | Python · NLP · HuggingFace |
+| 📋 [SciSup](https://www.jmisidro.com/projects/scisup)  | User-friendly project supervision platform to simplify workflows and enhance project outcomes | React · Node.js · PostgreSQL |
