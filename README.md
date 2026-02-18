@@ -4,7 +4,7 @@
 
 ### Software Engineer & AI Researcher · Porto, Portugal 🇵🇹
 
-[![Website](https://img.shields.io/badge/Portfolio-jmisidro.com-black?style=for-the-badge&logo=link&logoColor=white)](https://www.jmisidro.com)
+[![Website](https://img.shields.io/badge/Portfolio-jmisidro.com-black?style=for-the-badge&logo=website&logoColor=white)](https://www.jmisidro.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josemiguelisidro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemiguelisidro)
 [![Email](https://img.shields.io/badge/Email-josemmisidro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemmisidro@gmail.com)
 
@@ -17,8 +17,8 @@
 I'm a **Software Engineer** pursuing a **Master's in Informatics and Computing Engineering** at [FEUP](https://www.fe.up.pt/), University of Porto. I'm passionate about building impactful software and pushing the boundaries of AI.
 
 - 🔬 **Research Assistant** @ [INESC TEC](https://www.inesctec.pt/en/people/jose-miguel-isidro) — LIAAD Centre (Artificial Intelligence & Decision Support)
-- 💼 **Software Developer** @ [JuniFEUP](https://junifeup.pt)
-- 🤖 My research focuses on **NLP** — applying Topic Segmentation to municipal meeting minutes to make civic data more accessible
+- 💼 **Software Developer** @ [JuniFEUP](https://junifEUP.pt)
+- 🤖 My research focuses on **NLP** — applying Topic Segmentation, Classification, and Summarization to municipal meeting minutes to make civic data more accessible (CitiLink project)
 - 🌐 Based in **Porto, Portugal**
 
 ---
@@ -62,8 +62,9 @@ I'm a **Software Engineer** pursuing a **Master's in Informatics and Computing E
 
 ## 📊 GitHub Stats
 
+<!-- Contribution Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jmisidro&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jmisidro&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
@@ -72,5 +73,5 @@ I'm a **Software Engineer** pursuing a **Master's in Informatics and Computing E
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🌆 [CitiLink](https://www.inesctec.pt/en/projects/citilink) | Enhancing municipal transparency through AI — transforming unstructured city council documents into structured, accessible data | Python · NLP · HuggingFace |
-| 📋 SciSup | User-friendly project supervision platform to simplify workflows and enhance project outcomes | React · Node.js · PostgreSQL |
+| 🌆 [CitiLink](https://www.jmisidro.com/projects/1) | Enhancing municipal transparency through AI — transforming unstructured city council documents into structured, accessible data | Python · NLP · HuggingFace |
+| 📋 [SciSup](https://www.jmisidro.com/projects/2)  | User-friendly project supervision platform to simplify workflows and enhance project outcomes | React · Node.js · PostgreSQL |
