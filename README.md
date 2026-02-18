@@ -1,32 +1,76 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-  <h2>Hey, I'm José Miguel Isidro</h2>
-  <h3>Currently studying Informatics and Computing Engineering at FEUP :round_pushpin: Porto, Portugal</h3>
-  <h3><a href="https://www.jmisidro.com">Website</a></h3>
-  <h3><a href="https://www.linkedin.com/in/josemiguelisidro">LinkedIn</a></h3>
+
+# Hi there, I'm José Miguel Isidro 👋
+
+### Software Engineer & AI Researcher · Porto, Portugal 🇵🇹
+
+[![Website](https://img.shields.io/badge/Portfolio-jmisidro.com-black?style=for-the-badge&logo=link&logoColor=white)](https://www.jmisidro.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josemiguelisidro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemiguelisidro)
+[![Email](https://img.shields.io/badge/Email-josemmisidro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemmisidro@gmail.com)
+
 </div>
-<br>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Software Engineer** pursuing a **Master's in Informatics and Computing Engineering** at [FEUP](https://www.fe.up.pt/), University of Porto. I'm passionate about building impactful software and pushing the boundaries of AI.
+
+- 🔬 **Research Assistant** @ [INESC TEC](https://www.inesctec.pt/en/people/jose-miguel-isidro) — LIAAD Centre (Artificial Intelligence & Decision Support)
+- 💼 **Software Developer** @ [JuniFEUP](https://junifeup.pt)
+- 🤖 My research focuses on **NLP** — applying Topic Segmentation to municipal meeting minutes to make civic data more accessible
+- 🌐 Based in **Porto, Portugal**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### AI / NLP
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/jmisidro">
-  <img height="180em" alt="José Miguel GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmisidro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" alt="José Miguel Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jmisidro&layout=compact&langs_count=7&theme=dracula"/>   
+  <img src="https://streak-stats.demolab.com?user=jmisidro&theme=tokyonight&hide_border=true" />
 </div>
-  
-<div align="center" style="display: inline_block"><br>
-  <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/c/c-original.svg">
-  <img alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-  <img alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/react/react-original.svg">
-  <img alt="ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/reactnative/reactnative-original-wordmark.svg">
-  <img alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  <img alt="Terminal" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</div>
-  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🌆 [CitiLink](https://www.inesctec.pt/en/projects/citilink) | Enhancing municipal transparency through AI — transforming unstructured city council documents into structured, accessible data | Python · NLP · HuggingFace |
+| 📋 SciSup | User-friendly project supervision platform to simplify workflows and enhance project outcomes | React · Node.js · PostgreSQL |
